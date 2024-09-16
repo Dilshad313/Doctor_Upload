@@ -52,7 +52,7 @@ const UploadDoctor = () => {
       <Header />
 
       {/* Main Content */}
-      <main className="flex-grow flex flex-col items-center p-8 bg-gradient-to-br from-blue-100 to-indigo-100">
+      <main className="flex-grow flex flex-col items-center justify-center p-8 bg-gradient-to-br from-blue-100 to-indigo-100">
         <h1 className="text-5xl font-extrabold text-gray-900 mb-8">Upload Doctor Image</h1>
 
         <div className="mb-6 w-full max-w-xs">
